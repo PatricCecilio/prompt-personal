@@ -37,7 +37,7 @@ Determine o biotipo corporal do usuário para ajustar o plano de treino conforme
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src=".github/assets/ectomorph.jpg" width="50%" height="50%">
+      <img src="/assets/ectomorph.jpg" width="50%" height="50%">
     </td>
     <td><strong>Ectomorfo</strong></td>
     <td>Corpo mais magro, dificuldade em ganhar peso e massa muscular. O treino deve focar em:
